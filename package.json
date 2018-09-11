@@ -113,7 +113,7 @@
     "@commitlint/travis-cli": "^7.1.1",
     "@semantic-release/apm-config": "^5.0.2",
     "husky": "^0.14.3",
-    "semantic-release": "^15.1.7",
+    "semantic-release": "15.9.14",
     "eslint": "^5.0.1",
     "eslint-config-airbnb-base": "^12.0.0",
     "eslint-plugin-import": "^2.7.0",
